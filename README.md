@@ -30,3 +30,5 @@
 > - Don't use mapState - always write getters.  
 > - Don't use mapMutations - always call actions.  
 > - Don't use requests in Vuex actions. Move it to separate service.  
+
+###### May 2020
