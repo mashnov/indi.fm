@@ -1,0 +1,26 @@
+export default {
+  formValue: {
+    name: '',
+    author: '',
+    description: '',
+    year: '',
+    styleId: '',
+    cityId: '',
+    file: '',
+    duration: '',
+    cover: '',
+    width: '',
+    height: '',
+    contact: '',
+    phone: '',
+    email: '',
+    contactExtra: '',
+  },
+  formOptions: {
+    year: [],
+    styleId: [],
+    cityId: [],
+  },
+  posterIsLoaded: false,
+  audioIsLoaded: false,
+};

@@ -1,0 +1,30 @@
+$color-overlay: rgba(0, 0, 0, 0.4);
+$backgroundStart: #464545;
+$backgroundStop: #221F1F;
+$background: linear-gradient(135deg, $backgroundStart 0%, $backgroundStop 100%);
+
+$white: #FFFFFF;
+$grey: #C4C4C4;
+$gray: #9F9D9D;
+$dark: #333333;
+
+$buttonShadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+$modalShadow: 0px 0px 20px rgba(0, 0, 0, 0.8);
+$musicShadow: 0px 0px 10px #FFFFFF;
+
+$animationEasing: cubic-bezier(0.5, 0, 0.5 ,1);
+
+$screen-xs: map-get($grid-breakpoints, 'xs');
+$screen-sm: map-get($grid-breakpoints, 'sm');
+$screen-md: map-get($grid-breakpoints, 'md');
+$screen-lg: map-get($grid-breakpoints, 'lg');
+$screen-xl: map-get($grid-breakpoints, 'xl');
+$screen-hd: map-get($grid-breakpoints, 'hd');
+
+$modalAnimationEasing: cubic-bezier(0.5, 0, 0.5 ,1);
+$modalAnimationTimeIn: 0.3s;
+$modalAnimationTimeOut: 0.2s;
+
+$formItemBackground: rgba(255, 255, 255, 0.2);
+$formOptionsBackground: #5d5b5b;
+$formItemDisabledOpacity: 0.8;
