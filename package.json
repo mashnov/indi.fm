@@ -46,7 +46,7 @@
     "file-loader": "^6.0.0",
     "ismobilejs": "^1.1.1",
     "lint-staged": "^9.5.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-notifier": "^1.0.0",
     "vue-svg-loader": "^0.16.0",
